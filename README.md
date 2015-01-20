@@ -1,6 +1,6 @@
 <p>=============== LEISURE SPOTS BACKEND APP ==================</p>
 
-<p>Creator: i.  Olucheye  - https://github.com/andela-oolofinyo</p>
+<p>Creator: Olucheye  - https://github.com/andela-oolofinyo</p>
 
 <p>version: 1.0.0</p>
 
@@ -10,9 +10,9 @@
 
 <p>The API is to give a list of different funspots around you if you ever fiund yourself in a situation of being bored. All you need do is, go through the list of the funspots listed, and find the one closest that suits your needs &amp; taste. Get the basic information about the spot, pick your car keys or call a cab, and get there. If in a situation of wanting to have a party with the intent of meeting newfaces, you can use the form to create a new spot, other users of the app will locate you and it gets turned up. Viola!</p>
 
-<p>ALL FOR FREE.</p>
+<p><b>ALL FOR FREE.</b></p>
 
-<p>================= SPOTS ====================</p>
+<p>================= LEISURE SPOTS ====================</p>
 
 <p>i. Get a list of all funspots around.</p>
 
